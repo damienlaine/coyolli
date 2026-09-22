@@ -1,6 +1,6 @@
 # coyolli.com
 
-Maquette du site Coyolli, bijoux mexicains faits main à Toulouse.
+Maquette du site Coyolli, bijoux mexicains faits main à Toulouse, matières et savoir-faire du Veracruz.
 
 Site statique (HTML/CSS/JS, sans build), hébergé sur GitHub Pages.
 
